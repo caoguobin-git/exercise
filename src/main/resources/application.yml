@@ -1,0 +1,32 @@
+server:
+  port: 8080
+  max-http-header-size: 8192
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+  thymeleaf:
+    mode: HTML
+    encoding: utf-8
+    servlet:
+      content-type: text/html
+    cache: false
+    prefix: classpath:/templates/
+    enabled: true
+  devtools:
+    restart:
+      enabled: true
+  aop:
+    auto: true
+    proxy-target-class: true
+logging:
+  level:
+    com.cgb.mapper.UserMapper: debug
+picPath:
+  rootPath: e:/
+  childPath: yilanpic
+ChatServer:
+  url: 127.0.0.1
+  port: 8090
+  uri: /ws
