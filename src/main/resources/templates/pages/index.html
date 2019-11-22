@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        主页</title>
+    <script src="/js/vue.js"></script>
+    <script src="/js/jquery-3.4.1.js"></script>
+    <script src="/bootstrap/js/bootstrap.js"></script>
+    <link rel="stylesheet"
+          href="/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/exercise.css">
+</head>
+<body>
+<div id="exercise"
+     class="container">
+    <div v-for="item,index in questions">
+        <single-select
+                :is="item.QuestionType"
+                :index="index"
+                :question="item"></single-select>
+    </div>
+</div>
+</body>
+</html>
+<script src="/js/exercise.js"></script>

@@ -1,0 +1,229 @@
+{
+  "d": [
+    {
+      "QuestionId": "d5c2b43c-215f-4fd2-a8a9-fa22ff3199fe",
+      "Topic": "资产负债率和利息保障倍数均属于()指标。",
+      "Score": 0.5,
+      "PageNumber": "166",
+      "IsShowPageNumber": "True",
+      "AnalyticDesc": "资产负债率、负债与所有者权益比率、负债与有形净资产比率和利息保障倍数等，统称为杠杆比率。",
+      "KnowledgeId": "",
+      "AnswersIds": "2b88e769-38b8-401f-9333-24851e8767b9",
+      "ParentID": "",
+      "QuestionLevel": "易",
+      "AnalyticUrl": "",
+      "QuestionMainType": "单选题",
+      "WrongID": "ae3cec79-cd3f-4e63-9dfe-d9ad8f1ab3ca",
+      "labelID": null,
+      "ScheduleItemsID": "0ac2f03e-a752-47eb-9001-5409fcca7fdd",
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": 2,
+      "ScheduleID": null,
+      "ParentTopic": "",
+      "ExamId": "dda98fbe-ab9b-f527-bfcc-23324cc9b218",
+      "ChapterID": null,
+      "Location": 0,
+      "Answer": [
+        {
+          "AnswerID": "aecea6bf-5ebf-44bd-b501-a21ac0e8e431",
+          "AnswerContent": "盈利比率",
+          "QuestionId": "d5c2b43c-215f-4fd2-a8a9-fa22ff3199fe"
+        },
+        {
+          "AnswerID": "607cee29-b8c9-4b45-a882-0f8fbd3fc164",
+          "AnswerContent": "资产比率",
+          "QuestionId": "d5c2b43c-215f-4fd2-a8a9-fa22ff3199fe"
+        },
+        {
+          "AnswerID": "2b88e769-38b8-401f-9333-24851e8767b9",
+          "AnswerContent": "杠杆比率",
+          "QuestionId": "d5c2b43c-215f-4fd2-a8a9-fa22ff3199fe"
+        },
+        {
+          "AnswerID": "6e5d2088-cd20-4665-943d-6766a6c8b0ba",
+          "AnswerContent": "负债比率",
+          "QuestionId": "d5c2b43c-215f-4fd2-a8a9-fa22ff3199fe"
+        }
+      ]
+    },
+    {
+      "QuestionId": "c84e6269-194a-4ff4-b3c0-8244589a922f",
+      "Topic": "下列各项中，（）不属于企业资产负债表的科目。 ",
+      "Score": 0.5,
+      "PageNumber": "156",
+      "IsShowPageNumber": "True",
+      "AnalyticDesc": "资产负债表是反映借款人在某一特定日期财务状况的财务报表。财务费用不属于企业资产负债表的科目。",
+      "KnowledgeId": "",
+      "AnswersIds": "b337251a-3db4-4df8-a298-4dd8c96285e0",
+      "ParentID": "",
+      "QuestionLevel": "易",
+      "AnalyticUrl": "",
+      "QuestionMainType": "单选题",
+      "WrongID": "83b59ad5-bfad-419e-b9d9-e5a18d6534b7",
+      "labelID": null,
+      "ScheduleItemsID": null,
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": 0,
+      "ScheduleID": null,
+      "ParentTopic": "",
+      "ExamId": "dda98fbe-ab9b-f527-bfcc-23324cc9b218",
+      "ChapterID": null,
+      "Location": 0,
+      "Answer": [
+        {
+          "AnswerID": "f8c7bc36-a8dd-4676-a6e2-9ba1c74ef5be",
+          "AnswerContent": "货币资金",
+          "QuestionId": "c84e6269-194a-4ff4-b3c0-8244589a922f"
+        },
+        {
+          "AnswerID": "b337251a-3db4-4df8-a298-4dd8c96285e0",
+          "AnswerContent": "财务费用",
+          "QuestionId": "c84e6269-194a-4ff4-b3c0-8244589a922f"
+        },
+        {
+          "AnswerID": "b51ce326-4683-4b91-a66a-f2de2c18ad08",
+          "AnswerContent": "短期投资",
+          "QuestionId": "c84e6269-194a-4ff4-b3c0-8244589a922f"
+        },
+        {
+          "AnswerID": "0c393462-c631-45f1-a064-fd503025551a",
+          "AnswerContent": "无形资产",
+          "QuestionId": "c84e6269-194a-4ff4-b3c0-8244589a922f"
+        }
+      ]
+    },
+    {
+      "QuestionId": "11c1dc0a-6290-4d8e-9459-3822dd340e04",
+      "Topic": "对于长期销售增长企业，（ ）对于销售收入增长显得非常重要。 ",
+      "Score": 0.5,
+      "PageNumber": "44",
+      "IsShowPageNumber": "True",
+      "AnalyticDesc": "营运资金增加对于销售收人的增长就显得非常重要。",
+      "KnowledgeId": "",
+      "AnswersIds": "fc51de50-fd22-41fd-8937-34e90645d65a",
+      "ParentID": "",
+      "QuestionLevel": "易",
+      "AnalyticUrl": "",
+      "QuestionMainType": "单选题",
+      "WrongID": "11065ca1-a5d6-4c69-80c4-c06dff01e8ef",
+      "labelID": null,
+      "ScheduleItemsID": null,
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": 0,
+      "ScheduleID": null,
+      "ParentTopic": "",
+      "ExamId": "dda98fbe-ab9b-f527-bfcc-23324cc9b218",
+      "ChapterID": null,
+      "Location": 0,
+      "Answer": [
+        {
+          "AnswerID": "faaac286-16a3-4856-a9f3-2e3392c5f97f",
+          "AnswerContent": "科学技术",
+          "QuestionId": "11c1dc0a-6290-4d8e-9459-3822dd340e04"
+        },
+        {
+          "AnswerID": "c33e6d7b-e054-436a-b0b7-b1da5c68ffa5",
+          "AnswerContent": "季节因素",
+          "QuestionId": "11c1dc0a-6290-4d8e-9459-3822dd340e04"
+        },
+        {
+          "AnswerID": "e1f850be-58bc-4092-93f7-474e7e983624",
+          "AnswerContent": "资产负债结构",
+          "QuestionId": "11c1dc0a-6290-4d8e-9459-3822dd340e04"
+        },
+        {
+          "AnswerID": "fc51de50-fd22-41fd-8937-34e90645d65a",
+          "AnswerContent": "营运资金增加",
+          "QuestionId": "11c1dc0a-6290-4d8e-9459-3822dd340e04"
+        }
+      ]
+    },
+    {
+      "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f69",
+      "Topic": "商业银行中长期贷款结清后，原则上贷款档案需要再保管（）年。",
+      "Score": 0.5,
+      "PageNumber": "328",
+      "IsShowPageNumber": "True",
+      "AnalyticDesc": "中、长期贷款结清后原则上贷款档案需要再保管20年。",
+      "KnowledgeId": "",
+      "AnswersIds": "a25b6e7e-2c5b-47fa-8510-382e7e915b49",
+      "ParentID": "",
+      "QuestionLevel": "易",
+      "AnalyticUrl": "",
+      "QuestionMainType": "单选题",
+      "WrongID": null,
+      "labelID": null,
+      "ScheduleItemsID": null,
+      "QuestionType": "单选题",
+      "ChoiceID": "",
+      "IsRight": 0,
+      "ScheduleID": null,
+      "ParentTopic": "",
+      "ExamId": "dda98fbe-ab9b-f527-bfcc-23324cc9b218",
+      "ChapterID": null,
+      "Location": 0,
+      "Answer": [
+        {
+          "AnswerID": "5498d635-3178-464f-9fea-754393e413bf",
+          "AnswerContent": "5",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f69"
+        },
+        {
+          "AnswerID": "7a49e628-febc-472e-b9b9-574a379385ec",
+          "AnswerContent": "15",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f69"
+        },
+        {
+          "AnswerID": "6cad01d0-0d5d-472c-bd5f-8741c9487692",
+          "AnswerContent": "10",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f69"
+        },
+        {
+          "AnswerID": "a25b6e7e-2c5b-47fa-8510-382e7e915b49",
+          "AnswerContent": "20",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f69"
+        }
+      ]
+    },
+    {
+      "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f68",
+      "Topic": "商业银行中长期贷款结清后，原则上贷款档案需要再保管____年,不能超过____年。",
+      "Score": 0.5,
+      "PageNumber": "328",
+      "IsShowPageNumber": "True",
+      "AnalyticDesc": "中、长期贷款结清后原则上贷款档案需要再保管20年。",
+      "KnowledgeId": "",
+      "AnswersIds": "5498d635-3178-464f-9fea-754393e413bf,5498d635-3178-464f-9fea-754393e413b0",
+      "ParentID": "",
+      "QuestionLevel": "易",
+      "AnalyticUrl": "",
+      "QuestionMainType": "填空题",
+      "WrongID": null,
+      "labelID": null,
+      "ScheduleItemsID": null,
+      "QuestionType": "fill-in",
+      "ChoiceID": "",
+      "IsRight": 0,
+      "ScheduleID": null,
+      "ParentTopic": "",
+      "ExamId": "dda98fbe-ab9b-f527-bfcc-23324cc9b218",
+      "ChapterID": null,
+      "Location": 0,
+      "Answer": [
+        {
+          "AnswerID": "5498d635-3178-464f-9fea-754393e413bf",
+          "AnswerContent": "5",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f68"
+        },
+        {
+          "AnswerID": "5498d635-3178-464f-9fea-754393e413b0",
+          "AnswerContent": "50",
+          "QuestionId": "2b220276-5dfb-43ec-b07a-e87575d71f68"
+        }
+      ]
+    }
+  ]
+}
