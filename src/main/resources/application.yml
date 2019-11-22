@@ -17,7 +17,7 @@ spring:
     restart:
       enabled: true
   datasource:
-    url: jdbc:mysql://39.106.33.181:3306/chat?characterEncoding=UTF-8&serverTimezone=GMT%2b8&allowMultiQueries=true
+    url: jdbc:mysql://39.106.33.181:3306/exam?characterEncoding=UTF-8&serverTimezone=GMT%2b8&allowMultiQueries=true
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver

@@ -9,16 +9,23 @@ package com.wallhell.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.wallhell.common.entity.AnswerEntity;
+import com.wallhell.common.vo.JsonResult;
+import com.wallhell.service.ExerciseService;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
+@Slf4j
 @Controller
 @RequestMapping(value = "/exercise")
 public class ExerciseController {
+
+    @Autowired
+    private ExerciseService exerciseService;
 
     @GetMapping(value = "")
     @ResponseBody
@@ -253,5 +260,13 @@ public class ExerciseController {
                 "  ]\n" +
                 "}", Map.class);
         return map;
+    }
+
+    @PostMapping(value = "/answer")
+    @ResponseBody
+    public JsonResult saveAnswer(@RequestBody AnswerEntity answer){
+        log.info(answer.getQuestionId());
+        AnswerEntity entity=exerciseService.saveAnswer(answer);
+        return new JsonResult(entity);
     }
 }
